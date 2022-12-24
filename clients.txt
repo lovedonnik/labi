@@ -1,0 +1,10 @@
+Besedin Vladislav Olegovich,9525787890,01.01.2011,01.01.2021,200,0
+Gegraev Alan Shamilevich,9280780349,03.04.2004,03.04.2011,0,150		
+Zamesin Nikita Olegovich,9281761618,23.02.1995,23.02.2001,100,700
+Ionochev Konstantin Borisovich,9649369147,17.11.2011,17.11.2019,50,10
+Kelhibananov Vladislav Vadimovich,9885729311,23.09.1380,23.09.1390,0,200
+Kovalev Nikolay Valerevich,9614357445,14.07.2002,14.07.2006,150,150	
+Frolov Vitaly Vitalievich,9897251332,09.05.1945,09.05.1948,8,20
+Skorikov Nikita Sergeeivhc,9283848860,07.10.1943,07.10.1945,1100,2200
+Shaposhnikov Vadim Pavlovich,9898115705,27.01.1944,27.01.1948,0,0
+Mustapaev Gadjimurad Shamilevich,9034169969,27.07.2018,27.07.2023,50,50

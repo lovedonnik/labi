@@ -1,0 +1,10 @@
+bezlimitiwe,1,450,mon
+zvonki,2,1,#
+soobwenia,3,3,min
+messengers,4,5,min
+all,5,250,mon
+youtube,6,250,mon
+all,7,200,mon
+zvonki,8,170,mon
+bezlimitive,9,2100,mon
+integral,10,300,mon
